@@ -41,7 +41,8 @@ Contents
 \
 Installation
 ============
-Compile the main code with `make` (or `make all`) in the root directory.
+Compile the main code with `make` (or `make all`) in the root directory. 
+[MacOSX: the unit tests will not compile on a mac]
 
 See the `makefile` header documentation for all the options.
 
